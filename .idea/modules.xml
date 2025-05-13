@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chess-Engine/Chess-Engine.iml" filepath="$PROJECT_DIR$/Chess-Engine/Chess-Engine.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Chess-Engine-Java.iml" filepath="$PROJECT_DIR$/.idea/Chess-Engine-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yy/yy.iml" filepath="$PROJECT_DIR$/yy/yy.iml" />
     </modules>
   </component>
 </project>

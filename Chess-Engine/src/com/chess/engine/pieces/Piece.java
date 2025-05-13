@@ -21,6 +21,8 @@ public abstract class Piece {
         return this.pieceAlliance;
     }
 
+
+    // we override every move from this
     public abstract List<Move> calculateLegalMoves(final Board board) ;
 
 }
